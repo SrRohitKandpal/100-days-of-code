@@ -1,10 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 1: March 1, 2017
-##### (delete me or comment me out)
+### Day 1: March 2, 2017
 
 **Today's Progress**: I was working on second basic front end development project "Portfolio Page" from 3-4 days. Finally shared it on facebook and twitter. 
 
 **Thoughts:** I feel really awesome after completing this project. Doing a private job from last 1.5 yrs., sometime I planned to make a portfolio but #fff gave me chance to that.
 
 **Link to work:** Portfolio Project (https://codepen.io/srrohitkandpal/pen/MpYBVJ)
+
+
+### Day 1: March 3, 2017
+
+**Today's Progress**: Today I have completed the HTML-Profolio-Project of codeschool.com and pushed the code to github forked repository. 
+
+**Thoughts:** I was thinking it was easy though it took five commits to complete the tasks. New to github, maybe it will improve soon. After all feeling satisfied. I can sleep well.
+
+**Link to work:** HTML-Portfolio-Project https://github.com/SrRohitKandpal/HTMLPortfolioProject
