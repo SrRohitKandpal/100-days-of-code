@@ -9,10 +9,18 @@
 **Link to work:** Portfolio Project (https://codepen.io/srrohitkandpal/pen/MpYBVJ)
 
 
-### Day 1: March 3, 2017
+### Day 2: March 3, 2017
 
 **Today's Progress**: Today I have completed the HTML-Profolio-Project of codeschool.com and pushed the code to github forked repository. 
 
 **Thoughts:** I was thinking it was easy though it took five commits to complete the tasks. New to github, maybe it will improve soon. After all feeling satisfied. I can sleep well.
 
 **Link to work:** HTML-Portfolio-Project https://github.com/SrRohitKandpal/HTMLPortfolioProject
+
+### Day 3: March 4, 2017
+
+**Today's Progress**: Today I have completed the Build a Portfolio Using Bootstrap of codeschool.com and pushed the code to github forked repository. 
+
+**Thoughts:** It was not tough project as I'm using bootstrap from a long time. I haven't added my CSS styles now but will do the same tomorrow.
+
+**Link to work:** Build a Portfolio Using Bootstrap https://github.com/SrRohitKandpal/BootstrapPortfolioProject
