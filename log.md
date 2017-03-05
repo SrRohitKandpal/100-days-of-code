@@ -24,3 +24,11 @@
 **Thoughts:** It was not tough project as I'm using bootstrap from a long time. I haven't added my CSS styles now but will do the same tomorrow.
 
 **Link to work:** Build a Portfolio Using Bootstrap https://github.com/SrRohitKandpal/BootstrapPortfolioProject
+
+### Day 4: March 5, 2017
+
+**Today's Progress**: I haven't create any project today. Learn some lessons on freecodecamp.com of Basic Javascript.
+
+**Thoughts:** It was not tough project as I'm using bootstrap from a long time. I haven't added my CSS styles now but will do the same tomorrow.
+
+**Link to work:** You can check today's work progress here https://www.freecodecamp.com/srrohitkandpal
