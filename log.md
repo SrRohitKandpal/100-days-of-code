@@ -29,6 +29,14 @@
 
 **Today's Progress**: I haven't create any project today. Learn some lessons on freecodecamp.com of Basic Javascript.
 
-**Thoughts:** It was not tough project as I'm using bootstrap from a long time. I haven't added my CSS styles now but will do the same tomorrow.
+**Thoughts:** Not able to make real projects everyday. And being a beginner at javascript took time to understand everything, I know it will take time to settle down and I'm ready to keep patience and go steady just beyond my edge.
 
 **Link to work:** You can check today's work progress here https://www.freecodecamp.com/srrohitkandpal
+
+### Day 5: March 6, 2017
+
+**Today's Progress**: I haven't create any project today. Learn baisc javascript from freecodecamp and completed two levels of Assembling Sass Part 2 of codeschool.com.
+
+**Thoughts:** Not able to use Sass anywhere now, but just after finishing this level I will make a small project on SASS. Apart from that also make a list of small projects so that I will be on my commitment with #100DaysOfChallenge.
+
+**Link to work:** You can check today's work progress here https://www.freecodecamp.com/srrohitkandpal and here https://www.codeschool.com/users/SrRohitKandpal
