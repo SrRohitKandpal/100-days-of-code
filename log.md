@@ -40,3 +40,11 @@
 **Thoughts:** Not able to use Sass anywhere now, but just after finishing this level I will make a small project on SASS. Apart from that also make a list of small projects so that I will be on my commitment with #100DaysOfChallenge.
 
 **Link to work:** You can check today's work progress here https://www.freecodecamp.com/srrohitkandpal and here https://www.codeschool.com/users/SrRohitKandpal
+
+### Day 6: March 7, 2017
+
+**Today's Progress**: I haven't create any project today. Completed only one level of Assembling Sass Part 2 of codeschool.com.
+
+**Thoughts:** Slow really slow, I'm not satisfied with today's performance. After updating today's log I will code double times to overcome today's loss.
+
+**Link to work:** You can check today's work progress https://www.codeschool.com/users/SrRohitKandpal
