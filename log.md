@@ -48,3 +48,12 @@
 **Thoughts:** Slow really slow, I'm not satisfied with today's performance. After updating today's log I will code double times to overcome today's loss.
 
 **Link to work:** You can check today's work progress https://www.codeschool.com/users/SrRohitKandpal
+
+
+### Day 7: March 8, 2017
+
+**Today's Progress**: Moved ahead with freecodecamp Basic Javascript and completed few challenges. Also completed final two levels of Assembling Sass Part 2 of codeschool. 
+
+**Thoughts:** Not great but a satisfactory performance, will do more after 12 AM. 
+
+**Link to work:** You can check today's work progress here https://www.freecodecamp.com/srrohitkandpal and https://www.codeschool.com/users/SrRohitKandpal
