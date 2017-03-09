@@ -49,7 +49,6 @@
 
 **Link to work:** You can check today's work progress https://www.codeschool.com/users/SrRohitKandpal
 
-
 ### Day 7: March 8, 2017
 
 **Today's Progress**: Moved ahead with freecodecamp Basic Javascript and completed few challenges. Also completed final two levels of Assembling Sass Part 2 of codeschool. 
@@ -57,3 +56,11 @@
 **Thoughts:** Not great but a satisfactory performance, will do more after 12 AM. 
 
 **Link to work:** You can check today's work progress here https://www.freecodecamp.com/srrohitkandpal and https://www.codeschool.com/users/SrRohitKandpal
+
+### Day 8: March 9, 2017
+
+**Today's Progress**: I have completed Blasting Off With Bootstrap @codeschool.com today and that's how I completed all the courses of  HTML/CSS of codeschool.com
+
+**Thoughts:** Feeling great after completing all courses of HTML/CSS path at codeschool. Now i can jump in to my favorite launguage JAVASCRIPT.
+
+**Link to work:** You can check today's work progress here https://www.codeschool.com/users/SrRohitKandpal
