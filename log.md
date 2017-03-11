@@ -67,8 +67,16 @@
 
 ### Day 9: March 10, 2017
 
-**Today's Progress**: Revised Design Courses of codeschool and completed 2 levels of Javascript Road Trip Part 2 of codeschool.com
+**Today's Progress**: Revised Design Courses of codeschool and completed 2 levels of Javascript Road Trip Part 1 of codeschool.com
 
 **Thoughts:** I haven't that much today, was a tired day. But something is better than nothing. I will keep and calm and catch the pace with JS very soon.
+
+**Link to work:** You can check today's work progress here https://www.codeschool.com/users/SrRohitKandpal
+
+### Day 10: March 11, 2017
+
+**Today's Progress**: Revised Design Courses of codeschool again and completed last level of Javascript Road Trip Part 1 and two more levels of Javascript Road Trip Part 2 of codeschool.com
+
+**Thoughts:** Weekend lessened consistency in work. Have to improve speed to learn a little bit fast.
 
 **Link to work:** You can check today's work progress here https://www.codeschool.com/users/SrRohitKandpal
