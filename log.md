@@ -80,3 +80,11 @@
 **Thoughts:** Weekend lessened consistency in work. Have to improve speed to learn a little bit fast.
 
 **Link to work:** You can check today's work progress here https://www.codeschool.com/users/SrRohitKandpal
+
+### Day 11: March 12, 2017
+
+**Today's Progress**: Moved ahead with only codeschool Javscript Road Trip Part 2 and completed 2 more levels again, 
+
+**Thoughts:** I'm not sure if it's okay to put tutorials hours in this log. I will confirm it and then let you know all.
+
+**Link to work:** You can check today's work progress here https://www.codeschool.com/users/SrRohitKandpal
