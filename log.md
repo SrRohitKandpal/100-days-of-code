@@ -88,3 +88,11 @@
 **Thoughts:** I'm not sure if it's okay to put tutorials hours in this log. I will confirm it and then let you know all.
 
 **Link to work:** You can check today's work progress here https://www.codeschool.com/users/SrRohitKandpal
+
+### Day 12: March 14, 2017
+
+**Today's Progress**: Completed codeschool Javscript Road Trip Part 2 and facing final challenges of Basic JS of freecodecamp. 
+
+**Thoughts:** One day was skipped due to Holi, Celebration here in India. I have to keep up pace now. Pretty much confident.
+
+**Link to work:** You can check today's work progress here https://www.codeschool.com/users/SrRohitKandpal and https://www.freecodecamp.com/srrohitkandpal
