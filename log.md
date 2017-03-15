@@ -96,3 +96,11 @@
 **Thoughts:** One day was skipped due to Holi, Celebration here in India. I have to keep up pace now. Pretty much confident.
 
 **Link to work:** You can check today's work progress here https://www.codeschool.com/users/SrRohitKandpal and https://www.freecodecamp.com/srrohitkandpal
+
+### Day 13: March 15, 2017
+
+**Today's Progress**: Revised and do more problems based Javscript Road Trip Part  and Road 2 and got to know about beta.freecodecamp.com. So i dive there and completed first two courses Basic HTML and HTML5 and Basic CSS. 
+
+**Thoughts:** Not develop any projects but do some problem solved, which is very essential part. Without that I was skipping so many things in my mind.
+
+**Link to work:** You can check today's work progress here https://www.codeschool.com/users/SrRohitKandpal and http://beta.freecodecamp.com/en/srrohitkandpal
