@@ -104,3 +104,11 @@
 **Thoughts:** Not develop any projects but do some problem solved, which is very essential part. Without that I was skipping so many things in my mind.
 
 **Link to work:** You can check today's work progress here https://www.codeschool.com/users/SrRohitKandpal and http://beta.freecodecamp.com/en/srrohitkandpal
+
+### Day 14: March 16, 2017
+
+**Today's Progress**: Today I focused again on beta.freecodecamp and completed almost all the challenges except last 13 of Applied Visual Design.
+
+**Thoughts:** I will concentrate more on JS but slowly and at my pace that's why I'm revising it and moving the beta.freecodecamp.com
+
+**Link to work:** You can check today's progress here http://beta.freecodecamp.com/en/srrohitkandpal
