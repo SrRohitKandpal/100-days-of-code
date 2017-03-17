@@ -112,3 +112,11 @@
 **Thoughts:** I will concentrate more on JS but slowly and at my pace that's why I'm revising it and moving the beta.freecodecamp.com
 
 **Link to work:** You can check today's progress here http://beta.freecodecamp.com/en/srrohitkandpal
+
+### Day 15: March 16, 2017
+
+**Today's Progress**: Completed all the challenges of Applied Visual Design at beta.freecodecamp.com and read articles on Developer Mozilla about Responsive Images, also a bit about CSS. 
+
+**Thoughts:** I'm revising all the things related to HTML and CSS from developer mozilla network too, so hat I can focus on JS with more concentration. 
+
+**Link to work:** You can check today's progress here http://beta.freecodecamp.com/en/srrohitkandpal
