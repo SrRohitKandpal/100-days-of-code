@@ -128,3 +128,11 @@
 **Thoughts:** I have skipped one day i.e. 18th Macrh 2017 due to m y practical exam.
 
 **Link to work:** You can check today's progress here http://beta.freecodecamp.com/en/srrohitkandpal
+
+### Day 17: March 20, 2017
+
+**Today's Progress**: Moved ahead with beta.freecodecamp.com amd completed all challenges of Accessibily beta verison of freecodecamp. 
+
+**Thoughts:** Time to accelerate.
+
+**Link to work:** You can check today's progress here http://beta.freecodecamp.com/en/srrohitkandpal
