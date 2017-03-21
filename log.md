@@ -136,3 +136,11 @@
 **Thoughts:** Time to accelerate.
 
 **Link to work:** You can check today's progress here http://beta.freecodecamp.com/en/srrohitkandpal
+
+### Day 18: March 21, 2017
+
+**Today's Progress**: Back to freecodecamp again and focus on Object Oriented of JS challenges. Done a bit of beta.freecodecamp's Responsive Design challenges too.
+
+**Thoughts:** I will come into process of develpoing projects, codes and snippets from next month this is what I feel now. The mai tjought of today is as I was inspired by a saying "One pen, one book, one teacher can change the world". by Malala Yousafzai. I have decided to teach Front End Development to two young kids of my locality. They both are young and struggling what to do in their life, so I just gave them an idea three months now they realize they have to learn something for themselves. My goal is to introduce them various aspects of design, coding and front end development. I pleadge that I will help them as much as I can and the rest depends on both of the. I will introduce them soon with freecodecamp community and other helpful resources.
+ 
+**Link to work:** You can check today's progress here https://www.freecodecamp.com/srrohitkandpal and http://beta.freecodecamp.com/en/srrohitkandpal
