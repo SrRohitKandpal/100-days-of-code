@@ -161,3 +161,11 @@
 **Thoughts:** One out of two two boys who commited to learn Web Development has been out now. He said everything is so compliated, I was thinking to punch him on his face but then I told him, as you want. So now, only one guy is left, his name is Gulshan. I will try to make him understand everything what I know. And JS of developer.mozilla.org I'm coming to grab you from 1st April 2017.
  
 **Link to work:** You can check today's progress here https://www.beta.freecodecamp.com/srrohitkandpal
+
+### Day 21: March 24, 2017
+
+**Today's Progress**: Just read out articles of CSS on developer.mozilla.org.
+
+**Thoughts:** I haven't done any coding doday, and quiet frankly not making any project from last 1 week. I think this will gonna happen max till this Sunday.
+ 
+**Link to work:** No links to show today. :( 
