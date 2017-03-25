@@ -169,3 +169,13 @@
 **Thoughts:** I haven't done any coding doday, and quiet frankly not making any project from last 1 week. I think this will gonna happen max till this Sunday.
  
 **Link to work:** No links to show today. :( 
+
+### Day 22: March 25, 2017
+
+**Today's Progress**: Finally done something but updating it next night. Completed second project of beta version freecodecamp.com and that is 'Build A Survey Form'.
+
+**Thoughts:** After completing all the challenges of Responsive Web Design of beta.freecodecamp.com I have started their second project 'Build A Survey Page'. I was not able to finish work till 12'o clock yesterday, but finished it just right now, that's why updating log. 
+ 
+**Link to work:** You can find the work here https://codepen.io/srrohitkandpal/pen/dvjvbj 
+
+
