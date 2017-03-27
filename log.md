@@ -176,6 +176,14 @@
 
 **Thoughts:** After completing all the challenges of Responsive Web Design of beta.freecodecamp.com I have started their second project 'Build A Survey Page'. I was not able to finish work till 12'o clock yesterday, but finished it just right now, that's why updating log. 
  
-**Link to work:** You can find the work here https://codepen.io/srrohitkandpal/pen/dvjvbj 
+**Link to work:** You can find the work here https://codepen.io/srrohitkandpal/pen/dvjvbj
+
+### Day 26: March 27, 2017
+
+**Today's Progress**: I have skipped one more day that is Sunday. But today I have started the third project of beta.freecodecamp.com that is Product Landing Page for my personal client website Cruise Carrot.
+
+**Thoughts:** I have just started this project one hour before, and i will this whole only after that I will feel well. 
+ 
+**Link to work:** You can find the work here https://codepen.io/srrohitkandpal/pen/mWGqKx
 
 
