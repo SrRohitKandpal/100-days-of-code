@@ -193,3 +193,11 @@
 **Thoughts:** I have done some wrong things updated wrong Days in logs and Commits Name too, but corrected them now. And I will complete this project tonight after 12 A.M.
  
 **Link to work:** You can find the work here https://codepen.io/srrohitkandpal/pen/mWGqKx
+
+### Day 24: March 28, 2017
+
+**Today's Progress**: I have completed the basic markup + CSS i.e. the whole third project of beta.freecodecamp.com 'Product Landing Page' for my personal client website Cruise Carrot.
+
+**Thoughts:** As I committed I will complete it after 12 AM, it's done now and submitted with all the tests passing successfully.
+ 
+**Link to work:** You can check the work here https://codepen.io/srrohitkandpal/pen/mWGqKx
