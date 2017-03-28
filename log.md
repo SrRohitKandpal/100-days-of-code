@@ -178,7 +178,7 @@
  
 **Link to work:** You can find the work here https://codepen.io/srrohitkandpal/pen/dvjvbj
 
-### Day 26: March 27, 2017
+### Day 23: March 27, 2017
 
 **Today's Progress**: I have skipped one more day that is Sunday. But today I have started the third project of beta.freecodecamp.com that is Product Landing Page for my personal client website Cruise Carrot.
 
@@ -186,4 +186,10 @@
  
 **Link to work:** You can find the work here https://codepen.io/srrohitkandpal/pen/mWGqKx
 
+### Day 24: March 28, 2017
 
+**Today's Progress**: I have completed the basic markup of the third project of beta.freecodecamp.com 'Product Landing Page' for my personal client website Cruise Carrot.
+
+**Thoughts:** I have done some wrong things updated wrong Days in logs and Commits Name too, but corrected them now. And I will complete this project tonight after 12 A.M.
+ 
+**Link to work:** You can find the work here https://codepen.io/srrohitkandpal/pen/mWGqKx
