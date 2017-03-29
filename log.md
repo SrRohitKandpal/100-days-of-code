@@ -201,3 +201,11 @@
 **Thoughts:** As I committed I will complete it after 12 AM, it's done now and submitted with all the tests passing successfully.
  
 **Link to work:** You can check the work here https://codepen.io/srrohitkandpal/pen/mWGqKx
+
+### Day 25: March 29, 2017
+
+**Today's Progress**: Moved ahead with fourh project of Applied Responsive Web Design @beta.freecodecamp.com and started plannig, wrote down tests which needs to pass this project and also coded some markup. 
+
+**Thoughts:** I know I'm not able to complete it, today but I have already done planning. The topic is 'CSS FLexbox'. I really love it. 
+ 
+**Link to work:** You can check startup of this project here https://codepen.io/srrohitkandpal/pen/WpYwpx
