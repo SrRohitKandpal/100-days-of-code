@@ -209,3 +209,11 @@
 **Thoughts:** I know I'm not able to complete it, today but I have already done planning. The topic is 'CSS FLexbox'. I really love it. 
  
 **Link to work:** You can check startup of this project here https://codepen.io/srrohitkandpal/pen/WpYwpx
+
+### Day 26: March 30, 2017
+
+**Today's Progress**: Moved ahead with fourh project of Applied Responsive Web Design @beta.freecodecamp.com and completed half of the project today. 
+
+**Thoughts:** I have moced ahead with the project and completed half, will try to complete it tonight before sleeping.
+ 
+**Link to work:** You can check progress here https://codepen.io/srrohitkandpal/pen/WpYwpx
