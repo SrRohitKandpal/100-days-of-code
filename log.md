@@ -217,3 +217,11 @@
 **Thoughts:** I have moced ahead with the project and completed half, will try to complete it tonight before sleeping.
  
 **Link to work:** You can check progress here https://codepen.io/srrohitkandpal/pen/WpYwpx
+
+### Day 27: March 31, 2017
+
+**Today's Progress**: Finally finished the fourth project of Technical Documentation project on beta.freecodecamp.com
+
+**Thoughts:** Finished and feeling awesome, I have already Build A personal portfolio page in past for freecodecamp, so hopefully thinking of first ever certificate of RWD. 
+ 
+**Link to work:** You can work here https://codepen.io/srrohitkandpal/pen/WpYwpx
