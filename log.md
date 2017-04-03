@@ -225,3 +225,18 @@
 **Thoughts:** Finished and feeling awesome, I have already Build A personal portfolio page in past for freecodecamp, so hopefully thinking of first ever certificate of RWD. 
  
 **Link to work:** You can work here https://codepen.io/srrohitkandpal/pen/WpYwpx
+
+### Day 28: April 3, 2017
+
+**Today's Progress**: Not able to code for myself from last three days. Just finished first level of Javascript Road Trip Part 3. 
+
+**Thoughts:** Relatives are at home from April 1 2017, to talk about my marriage. I know it's a bit personal thing to weite here but that's the truth. So i will have to match up the pace again now, coz I'm going to marry till next winter. 
+ 
+**Link to work:** You can work here ### Day 27: March 31, 2017
+
+**Today's Progress**: Finally finished the fourth project of Technical Documentation project on beta.freecodecamp.com
+
+**Thoughts:** Finished and feeling awesome, I have already Build A personal portfolio page in past for freecodecamp, so hopefully thinking of first ever certificate of RWD. 
+ 
+**Link to work:** You can work here https://www.codeschool.com/users/SrRohitKandpal
+
