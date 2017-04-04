@@ -240,3 +240,11 @@
  
 **Link to work:** You can work here https://www.codeschool.com/users/SrRohitKandpal
 
+
+### Day 29: April 4, 2017
+
+**Today's Progress**: I have completed the  SemanticHTMLPortfolioProject of codeschool.com
+
+**Thoughts:** Slow but consistent performance matters the most. 
+ 
+**Link to work:** You can work here https://www.codeschool.com/users/SrRohitKandpal
