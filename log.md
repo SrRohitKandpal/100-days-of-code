@@ -248,3 +248,11 @@
 **Thoughts:** Slow but consistent performance matters the most. 
  
 **Link to work:** You can work here https://www.codeschool.com/users/SrRohitKandpal
+
+### Day 30: April 7, 2017
+
+**Today's Progress**: Not code anything just revised the CSS Laouts Documentation from Moxilla Developer Network.
+
+**Thoughts:** Enough is enough within my 30 Days of this challenge, I have skipped several days. Not done proper coding, but I'm promising today that I will code 1 hour everyday from 8th April regularly, to keep my promise. 
+ 
+**Link to work:** No Links to work today.
