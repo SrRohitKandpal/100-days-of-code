@@ -256,3 +256,12 @@
 **Thoughts:** Enough is enough within my 30 Days of this challenge, I have skipped several days. Not done proper coding, but I'm promising today that I will code 1 hour everyday from 8th April regularly, to keep my promise. 
  
 **Link to work:** No Links to work today.
+
+### Day 31: April 8, 2017
+
+**Today's Progress**: Today as I promised started a new project named 'Programming Work Plan 2017'. Just designed header and navigation right now.
+
+**Thoughts:** As i promised myself to code an hour from today, I decided to make a new project till I not got any new one's in the road of codeschool and freecodecamp. I will complete it ASAP and update it, review it every month to see my progress. 
+ 
+**Link to work:** You can find link here on codepen https://codepen.io/srrohitkandpal/pen/oZrJmO
+
