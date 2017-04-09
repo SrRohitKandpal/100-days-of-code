@@ -265,3 +265,11 @@
  
 **Link to work:** You can find link here on codepen https://codepen.io/srrohitkandpal/pen/oZrJmO
 
+### Day 32: April 9, 2017
+
+**Today's Progress**: Moved ahead and designed the whole new section of "Month's Description" and designed a work report like tabbed naviagation which is learly showing what are my goals, achievements which I will update after each month, Remarks to imrprove and Ratings to rate myself.
+
+**Thoughts:** I'm feeling a little pumped up and nor I will not gonna stop anyday.
+ 
+**Link to work:** You can find link here on codepen https://codepen.io/srrohitkandpal/pen/oZrJmO
+
