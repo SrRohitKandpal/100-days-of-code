@@ -273,3 +273,11 @@
  
 **Link to work:** You can find link here on codepen https://codepen.io/srrohitkandpal/pen/oZrJmO
 
+### Day 33: April 10, 2017
+
+**Today's Progress**: Moved ahead and designed the section of "Platforms" of my new personal project 'Programming Work Plan 2017'.
+
+**Thoughts:** I don't think it will take more than this week to complete this project. I'm feeling like coding consistently now.
+ 
+**Link to work:** You can find link here on codepen https://codepen.io/srrohitkandpal/pen/oZrJmO
+
