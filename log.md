@@ -281,11 +281,11 @@
  
 **Link to work:** You can find link here on codepen https://codepen.io/srrohitkandpal/pen/oZrJmO
 
-### Day 34: April 11, 2017
+### Day 35: April 12, 2017
 
-**Today's Progress**: Moved ahead and designed the section of "Portfolio" of my new personal project 'Programming Work Plan 2017'. I have also added some beautiful vector graphics in the project.
+**Today's Progress**: I have complted the Basic Markup and CSS of my new personal project 'Programming Work Plan 2017'.
 
-**Thoughts:** I found that how punctal and systematic I can be if i need to code only. #HappyCOding 
+**Thoughts:** Feeling pumped up completed the Basic Markup and CSS. Now i will going to give it final touches and finish this project till the end of the week. 
  
-**Link to work:** You can find link here on codepen https://codepen.io/srrohitkandpal/pen/oZrJmO
+**Link to work:** Check out here on codepen https://codepen.io/srrohitkandpal/pen/oZrJmO
 
