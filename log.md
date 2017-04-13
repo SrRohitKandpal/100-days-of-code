@@ -281,11 +281,29 @@
  
 **Link to work:** You can find link here on codepen https://codepen.io/srrohitkandpal/pen/oZrJmO
 
+### Day 34: April 11, 2017
+
+**Today's Progress**: Updating this entry today. I had completed the portfolio section this day of my personal project "Programming Workplan 2017"
+
+**Thoughts:** Taking little steps but these little steps will turn out to win the race of this year.
+ 
+**Link to work:** Check out here on codepen https://codepen.io/srrohitkandpal/pen/oZrJmO
+
 ### Day 35: April 12, 2017
 
-**Today's Progress**: I have complted the Basic Markup and CSS of my new personal project 'Programming Work Plan 2017'.
+**Today's Progress**: I have completed the Basic Markup and CSS of my new personal project 'Programming Work Plan 2017'.
 
 **Thoughts:** Feeling pumped up completed the Basic Markup and CSS. Now i will going to give it final touches and finish this project till the end of the week. 
  
 **Link to work:** Check out here on codepen https://codepen.io/srrohitkandpal/pen/oZrJmO
+
+### Day 36: April 12, 2017
+
+**Today's Progress**: I have done styling on my personal project today and also added href and ids (on page navigation) to the main-nav.
+
+**Thoughts:** I' pretty much happy as I'm going to finish this project within 2 days more.
+ 
+**Link to work:** Check out progress here on codepen https://codepen.io/srrohitkandpal/pen/oZrJmO
+
+
 
