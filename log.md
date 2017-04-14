@@ -297,7 +297,7 @@
  
 **Link to work:** Check out here on codepen https://codepen.io/srrohitkandpal/pen/oZrJmO
 
-### Day 36: April 12, 2017
+### Day 36: April 13, 2017
 
 **Today's Progress**: I have done styling on my personal project today and also added href and ids (on page navigation) to the main-nav.
 
@@ -305,5 +305,12 @@
  
 **Link to work:** Check out progress here on codepen https://codepen.io/srrohitkandpal/pen/oZrJmO
 
+### Day 37: April 14, 2017
+
+**Today's Progress**: Done some more styling and added smooth scroll to all the anchors of different sections of my personal project 'Programming Work plan 2017'.
+
+**Thoughts:** Not very much coding but done some styling. Going to finish and share it to public tomorrow after final touch.
+ 
+**Link to work:** Check out progress here on codepen https://codepen.io/srrohitkandpal/pen/oZrJmO
 
 
