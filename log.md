@@ -313,4 +313,12 @@
  
 **Link to work:** Check out progress here on codepen https://codepen.io/srrohitkandpal/pen/oZrJmO
 
+### Day 38: April 14, 2017
+
+**Today's Progress**: I have finished my personal project 'Programming Work plan 2017' today. I will regularly update the page on last day of the month.
+
+**Thoughts:** Feeling determined and more good vibes are coming.
+ 
+**Link to work:** Check out project here https://codepen.io/srrohitkandpal/pen/oZrJmO
+
 
