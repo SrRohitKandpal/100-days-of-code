@@ -313,12 +313,20 @@
  
 **Link to work:** Check out progress here on codepen https://codepen.io/srrohitkandpal/pen/oZrJmO
 
-### Day 38: April 14, 2017
+### Day 38: April 15, 2017
 
 **Today's Progress**: I have finished my personal project 'Programming Work plan 2017' today. I will regularly update the page on last day of the month.
 
 **Thoughts:** Feeling determined and more good vibes are coming.
  
 **Link to work:** Check out project here https://codepen.io/srrohitkandpal/pen/oZrJmO
+
+### Day 39: April 17, 2017
+
+**Today's Progress**: Skipped Sunday, due to my own mistake. But today I started finish HTML Advanced part on MDN. Learnt CORS Attribute and CORS Management. 
+
+**Thoughts:** Moving ahead to gain some more knowledge.
+ 
+**Link to work:** No link to show today.
 
 
