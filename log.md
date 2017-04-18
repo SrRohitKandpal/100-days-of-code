@@ -329,4 +329,11 @@
  
 **Link to work:** No link to show today.
 
+### Day 40: April 18, 2017
+
+**Today's Progress**: I was following documentation of HTML and CSS from MDN from a long time, but the assessments part was incomplted. So now I'm going to complete the assesments of Mozilla Developer Netwrok. Finished today, first assessment of HTML- Marking Up A Letter. Also learnt about HTML forms from MDN.
+
+**Thoughts:** Without assessments I was feeling uncomfortable to move ahead on MDN. So i broke down this uncomfortable zone.
+ 
+**Link to work:** You can find pen of the same here https://codepen.io/srrohitkandpal/pen/YVyRQB
 
