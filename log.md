@@ -337,3 +337,10 @@
  
 **Link to work:** You can find pen of the same here https://codepen.io/srrohitkandpal/pen/YVyRQB
 
+### Day 41: April 19, 2017
+
+**Today's Progress**: So finally I have started HTTP on MDD. Read Overview of HTTP today.
+
+**Thoughts:** I'm taking ot real slow as it shoul have to be understandable first, after all I'm moving ahead in development phase.
+ 
+**Link to work:** No links to show.
