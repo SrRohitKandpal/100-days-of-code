@@ -341,6 +341,14 @@
 
 **Today's Progress**: So finally I have started HTTP on MDD. Read Overview of HTTP today.
 
-**Thoughts:** I'm taking ot real slow as it shoul have to be understandable first, after all I'm moving ahead in development phase.
+**Thoughts:** I'm taking on real slow as it shoul have to be understandable first, after all I'm moving ahead in development phase.
+ 
+**Link to work:** No links to show.
+
+### Day 42: April 20, 2017
+
+**Today's Progress**: Moved ahead with HTTP and completed Overview of HTTP from MDN, also learn little bit about HTTP Cache.
+
+**Thoughts:** I'm not sure whether to start HTTP first or to learn JS, but as I have created a mindset, I'm going to finish it first till the end of this month. And I will look after it JS too. 
  
 **Link to work:** No links to show.
