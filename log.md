@@ -352,3 +352,11 @@
 **Thoughts:** I'm not sure whether to start HTTP first or to learn JS, but as I have created a mindset, I'm going to finish it first till the end of this month. And I will look after it JS too. 
  
 **Link to work:** No links to show.
+
+### Day 43: April 21, 2017
+
+**Today's Progress**: Today I moved again with MDN Assessments Area. Completed 2nd project of HTML- Structuring a page of content.
+
+**Thoughts:** It hardly takes 25-30 mins finish this page, but time is time and I can't move ahead with lefting behind things.
+ 
+**Link to work:** No links yet, but I will upload the same tomorrow.
