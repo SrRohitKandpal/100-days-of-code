@@ -360,3 +360,11 @@
 **Thoughts:** It hardly takes 25-30 mins finish this page, but time is time and I can't move ahead with lefting behind things.
  
 **Link to work:** No links yet, but I will upload the same tomorrow.
+
+### Day 44: April 24, 2017
+
+**Today's Progress**: Skipped two more days from the 100DaysOfCode challenge, whatever be the reasons doesn't really matter. So i have decided to finally follow a book to learn JavaScript in depth from zero to master it. I havew started learning it from 'Eloquent JavaScrit' online free book. Today I have read Introduction and Chapter-1 Values and Types only.
+
+**Thoughts:** Changing my 24 hours schedule completely and it begins from today.
+ 
+**Link to work:** No links yet to show here. 
