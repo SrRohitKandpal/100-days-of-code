@@ -368,3 +368,11 @@
 **Thoughts:** Changing my 24 hours schedule completely and it begins from today.
  
 **Link to work:** No links yet to show here. 
+
+## Day 45: April 25, 2017
+
+**Today's Progress**: Moved ahead with my Eloquent Javascript book and finished Values, Types and Operators today.
+
+**Thoughts:** Feeling good now, as I'm starting from the very basics.
+ 
+**Link to work:** I will make some short code programs and update the link here tomorrow.
