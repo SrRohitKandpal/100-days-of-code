@@ -376,3 +376,11 @@
 **Thoughts:** Feeling good now, as I'm starting from the very basics.
  
 **Link to work:** I will make some short code programs and update the link here tomorrow.
+
+## Day 46: April 26, 2017
+
+**Today's Progress**: Today I completed one more assesment of MDN and i.e. MDN-Splash-Game. 
+
+**Thoughts:** It completed too many quick basics which we have learnt from Multemedia and Embedding articles. So finally feels good after finishing this.
+ 
+**Link to work:** Link to this work is https://github.com/SrRohitKandpal/MDN-Splash-Game-Assessment
