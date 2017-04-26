@@ -383,4 +383,4 @@
 
 **Thoughts:** It completed too many quick basics which we have learnt from Multemedia and Embedding articles. So finally feels good after finishing this.
  
-**Link to work:** Link to this work is https://github.com/SrRohitKandpal/MDN-Splash-Game-Assessment
+**Link to work:** Link to this work is https://github.com/SrRohitKandpal/MDN-SPlash-Page-Assessment
