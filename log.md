@@ -384,3 +384,11 @@
 **Thoughts:** It completed too many quick basics which we have learnt from Multemedia and Embedding articles. So finally feels good after finishing this.
  
 **Link to work:** Link to this work is https://github.com/SrRohitKandpal/MDN-SPlash-Page-Assessment
+
+## Day 47: April 27, 2017
+
+**Today's Progress**: Today move ahead in HTTP and learnt HTTp caching techniques. 
+
+**Thoughts:** It's not as much digestable at first but I know it will be after another reading and practice.
+ 
+**Link to work:** No links to show roday. 
