@@ -391,4 +391,21 @@
 
 **Thoughts:** It's not as much digestable at first but I know it will be after another reading and practice.
  
-**Link to work:** No links to show roday. 
+**Link to work:** No links to show today. 
+
+
+## Day 48: April 28, 2017
+
+**Today's Progress**: I was not able to update my work of that day but doing the same now, I have rad more about HTTP caching from MDN and finishe another assessment of HTML tables of MDN named 'Structuring Planet Data'
+
+**Thoughts:** The plans which I'm making are working but upto an extent nit fully productive.
+ 
+**Link to work:** I have put code snippet on codepen and you can find it here https://codepen.io/srrohitkandpal/pen/KmmqwW 
+
+## Day 49: April 27, 2017
+
+**Today's Progress**: Today I learnt Javascript First Steps from MDN and also completed a project named 'Number Guessing Game'
+
+**Thoughts:** I have started Javascript MDN and finished a project too. It was awesome start. I know I haven't added my code snippets here as I promised some days ago but I will this week.
+ 
+**Link to work:** Link of work https://codepen.io/srrohitkandpal/pen/PmmjPw
