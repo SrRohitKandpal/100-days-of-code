@@ -402,10 +402,26 @@
  
 **Link to work:** I have put code snippet on codepen and you can find it here https://codepen.io/srrohitkandpal/pen/KmmqwW 
 
-## Day 49: April 27, 2017
+## Day 49: April 30, 2017
 
 **Today's Progress**: Today I learnt Javascript First Steps from MDN and also completed a project named 'Number Guessing Game'
 
 **Thoughts:** I have started Javascript MDN and finished a project too. It was awesome start. I know I haven't added my code snippets here as I promised some days ago but I will this week.
  
 **Link to work:** Link of work https://codepen.io/srrohitkandpal/pen/PmmjPw
+
+## Day 50: May 1, 2017
+
+**Today's Progress**: Moved ahead with Javascript First Steps and learnt Variables and Numbers and Operators modules right form there. I have also learn some active learning part there right in their console. Updating yesterday's work today.
+
+**Thoughts:** Proficiency in any language means solid undesrtanding of Basics, so spending a little more time here in MDN and learning very well. 
+ 
+**Link to work:** No links to the work.
+
+## Day 51: May 1, 2017
+
+**Today's Progress**: Moved ahead with Javascript First Steps and learnt Strings in Javascript, Useful Javascript Methods and also Arrays. I also done active learning part right in their console.  
+
+**Thoughts:** Digging in the hole of Javascript, it's finally going in my brain and I suppose soon I will overcome this fear, maybe till the end of this month. 
+ 
+**Link to work:** No links to the work.
