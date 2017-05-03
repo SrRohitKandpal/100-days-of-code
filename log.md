@@ -426,7 +426,7 @@
  
 **Link to work:** No links to the work.
 
-## Day 51: May 3, 2017
+## Day 52: May 3, 2017
 
 **Today's Progress**: Moved ahead with Javascript First Steps at MDN and finished my first project 'Silly Story Generator'. 
 
