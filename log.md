@@ -418,10 +418,18 @@
  
 **Link to work:** No links to the work.
 
-## Day 51: May 1, 2017
+## Day 51: May 2, 2017
 
 **Today's Progress**: Moved ahead with Javascript First Steps and learnt Strings in Javascript, Useful Javascript Methods and also Arrays. I also done active learning part right in their console.  
 
 **Thoughts:** Digging in the hole of Javascript, it's finally going in my brain and I suppose soon I will overcome this fear, maybe till the end of this month. 
  
 **Link to work:** No links to the work.
+
+## Day 51: May 3, 2017
+
+**Today's Progress**: Moved ahead with Javascript First Steps at MDN and finished my first project 'Silly Story Generator'. 
+
+**Thoughts:** The knowledge which we have gained in this module has been prefectly tested especially with strings methods, it was not ticking at starting but soon I was able to understand it and finish it. 
+ 
+**Link to work:** You can check my work here https://github.com/SrRohitKandpal/Silly-Story-Generator-MDN
