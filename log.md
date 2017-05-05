@@ -433,3 +433,18 @@
 **Thoughts:** The knowledge which we have gained in this module has been prefectly tested especially with strings methods, it was not ticking at starting but soon I was able to understand it and finish it. 
  
 **Link to work:** You can check my work here https://github.com/SrRohitKandpal/Silly-Story-Generator-MDN
+
+## Day 53: May 4, 2017
+
+**Today's Progress**: Learn a detailed module of HTML Forms at Mozilla Developer Network with so many different input types.
+**Thoughts:** I haven't code much today but still it's an awesome resource.
+ 
+**Link to work:** No links to show today.
+
+## Day 54: May 5, 2017
+
+**Today's Progress**: Today I have completed a card and it's an assessment of Introduction to CSS named 'Fundamentals-CSS-Comprehension' 
+
+**Thoughts:** A very simple and cool card. 
+ 
+**Link to work:** https://codepen.io/srrohitkandpal/pen/XRewbG
