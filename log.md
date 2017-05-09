@@ -448,3 +448,27 @@
 **Thoughts:** A very simple and cool card. 
  
 **Link to work:** https://codepen.io/srrohitkandpal/pen/XRewbG
+
+## Day 55: May 6, 2017
+
+**Today's Progress**: Sorry guys, I haven't updated my log from 4 days, but doing it right now. I had finished another assessment of CSS named 'Typesetting a Community School Homepage' @MDN. Also learnt more about HTML Forms.
+
+**Thoughts:** It's not much what I'm expecting but I think if i will keep doing, it will be of great after some days.  
+ 
+**Link to work:** 
+
+## Day 56: May 8, 2017
+
+**Today's Progress**: Skipped this Sunday and not done anything. Finished the third and fourth assessment of CSS named 'Creating fancy letterheaded paper' and 'A cool-looking box'.
+
+**Thoughts:** All CSS assessments completed, yeah I can focus on JavaScript now. 
+ 
+**Link to work:** 
+
+## Day 57: May 9, 2017
+
+**Today's Progress**: Hey coders. I dig myself in the second module of JavaScript @MDN 'JavaScript Building Blocks' and learn 'Making Decisions in Your Code-Conditionals'. 
+
+**Thoughts:** Finally feeling happy to come back JavaScript. Soon I'm also going to learn the same from Eloquent JavaScript book.
+ 
+**Link to work:** No links to show
