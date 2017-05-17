@@ -472,3 +472,69 @@
 **Thoughts:** Finally feeling happy to come back JavaScript. Soon I'm also going to learn the same from Eloquent JavaScript book.
  
 **Link to work:** No links to show
+
+Oh My god, I'm updating the log after 8 days. I know this is not the way to work and to do things as you commit yourself but I just found it useless if i will regularly updating false things which even i never tried or done, but in these 9 days I have learnt a lot. So now, updating the same and will update log daily from now, as the habit has become to learn and code everyday. 
+
+## Day 58: May 10, 2017
+
+**Today's Progress**: Dig down again in MDN's Building Blocks >  ]Making decisions in your code- Conditionals and completed a task on A Simple Calender
+
+**Thoughts:** Coding is not just difficult, it's difficult to make yourself code
+ 
+**Link to work:** No links to show
+
+## Day 59: May 11, 2017
+
+**Today's Progress**: Learn more the same topiv on MDN's Building Blocks >  ]Making decisions in your code- Conditionals and completed a task on More Color Choices.
+
+**Thoughts:** Coding is not just difficult, it's difficult to make yourself code
+ 
+**Link to work:** No links to show
+
+## Day 60: May 12, 2017
+
+**Today's Progress**: Learn more the same topic on MDN's Building Blocks >  ]Making decisions in your code- Conditionals and completed a task on More Color Choices.
+
+**Thoughts:** Coding is not just difficult, it's difficult to make yourself code
+ 
+**Link to work:** No links to show
+
+## Day 61: May 13, 2017
+
+**Today's Progress**: Moved ahead at Mozilla Developer Network 'Learn Javascript' part Building Blocks of JS and learn Some Loops today. 
+
+**Thoughts:** Loops are awesome to work, for loop is just one type and that makes me comfortably sleep today.
+ 
+**Link to work:** No links to show
+
+## Day 62: May 14, 2017
+
+**Today's Progress**:  Finished 'Looping Code' topic of Building Blocks > Learn Javascript at Mozilla Developer Network and also finish two simple learning tasks.
+
+**Thoughts:** Looping is an awesome fun, we can loop anything by three different ways and three different pieces of code.
+ 
+**Link to work:** No links to show
+
+## Day 63: May 15, 2017
+
+**Today's Progress**: Today I started following my first ever book on programming and that is 'Eloquent Javascript' and learn Chapter-1 Values, Types and Operators. Only learnt Values and Types today.
+
+**Thoughts:** There maybe so many different resources to learn, code examples which explains everything but a book is a best friend which teaches us which things to follow and which not.
+ 
+**Link to work:** No links to show
+
+## Day 64: May 16, 2017
+
+**Today's Progress**: Moved ahead with first Chapter-1 (Eloquent Javascript) and finished Operators topic too.
+
+**Thoughts:** Logical Operators and Ternary Operator is not digestable first but at second it seems really awesome after understanding them.
+ 
+**Link to work:** No links to show
+
+## Day 65: May 17, 2017
+
+**Today's Progress**: Eloquent Javascript is really helping me to understand programming and real programming very well. Today I learn Chapter-2 and learn till Control Flow. 
+
+**Thoughts:** I'm also making notes of whatever I'm learning from this book, I'm not just reading but completely following it. Playing in JavaScript console in dev tools is also a fun.
+ 
+**Link to work:** No links to show
