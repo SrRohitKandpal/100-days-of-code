@@ -538,3 +538,43 @@ Oh My god, I'm updating the log after 8 days. I know this is not the way to work
 **Thoughts:** I'm also making notes of whatever I'm learning from this book, I'm not just reading but completely following it. Playing in JavaScript console in dev tools is also a fun.
  
 **Link to work:** No links to show
+
+## Day 66: May 18, 2017
+
+**Today's Progress**: JavaScript is awesome as it is becoming my first programming laguage. I have learnt today conditional execution and all the things about loops. Whaty a loopy day.
+
+**Thoughts:** Loops helo us to write programs to avoid repitition and give us better control and we can do even more creative with Conditional execution  
+ 
+**Link to work:** No links to show
+
+## Day 67: May 19, 2017
+
+**Today's Progress**: Exercises time for Chapter-2. Today I have solved "Looping a Triangle" exercise of Eloquent Javascript book. I have also learnt little bit about Functions from learning area of JacaScript at MDN.
+
+**Thoughts:** Concepts are easy to read but complex to apply at the staring stage of learning real programming.
+ 
+**Link to work:** No links to show
+
+## Day 68: May 20, 2017
+
+**Today's Progress**: Today I have solved second exercise of Chapter-2, Eloquent Javascript book. This is one is real challenging as is is "FizzBuzz" challenge my friend.
+
+**Thoughts:** FizzBuzz is a real exercise to the mind, what we have to print and which variables along with which conditions will write where to get appropriate result is challenging.
+ 
+**Link to work:** No links to show
+
+## Day 69: May 21, 2017
+
+**Today's Progress**: Finishes third and final exercise of Chapter-2 Program Structure of Eloquent JavaScript. "Chess Board" is also a challenging exercise. I have also moved ahead with Functions at MDN. 
+
+**Thoughts:** I got to know very earlt that this exercise will need two loops but how to get exact results is also a real fin.
+ 
+**Link to work:** No links to show
+
+## Day 70: May 21, 2017
+
+**Today's Progress**: Started Chapter-3 Functions and learnt till "Functions as Values" sectionof this awesomne book which is helping me lose my fear and building a sub-consious confidence in my mind.
+
+**Thoughts:** Functions play a vital role in JS and I have to learn very easy and calmly everything about them. 
+ 
+**Link to work:** No links to show 
