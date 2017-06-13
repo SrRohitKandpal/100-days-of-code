@@ -541,7 +541,7 @@ Oh My god, I'm updating the log after 8 days. I know this is not the way to work
 
 ## Day 66: May 18, 2017
 
-**Today's Progress**: JavaScript is awesome as it is becoming my first programming laguage. I have learnt today conditional execution and all the things about loops. Whaty a loopy day.
+**Today's Progress**: JavaScript is awesome as it is becoming my first programming laguage. I have learnt today conditional execution and all the things about loops. What a loopy day.
 
 **Thoughts:** Loops helo us to write programs to avoid repitition and give us better control and we can do even more creative with Conditional execution  
  
@@ -578,3 +578,14 @@ Oh My god, I'm updating the log after 8 days. I know this is not the way to work
 **Thoughts:** Functions play a vital role in JS and I have to learn very easy and calmly everything about them. 
  
 **Link to work:** No links to show 
+
+
+It's been 22 days I haaven'y updated this log. I was little busy in supplementary exams of my graduation. But still I managed to learn something new and build some new things which I will share tomorrow.
+
+## Day 71 May 22, 2017 - Day 93 June 13 2017 
+
+**Progress**: In between this period of time I able to finsh MDN's JS Building Blocks modules completely. I have also finshed Chapter-4 with all the exercises of Eloquent Javascript. I'm also able to finish two levels of JavaScript Road Trip Part 3 at codeschool.  
+
+**Thoughts:** I witnessed that consistency is what a programmer think like a programmer. I will write a story at medium of my 100 Days of code challenge and I promise with new challenge of 100 Days of code I will conquer the Javascript and its major frameworks because that's what I really wanted this year #2017. Came back with new enthusiasm.
+ 
+**Link to work:** No links to show right now.
