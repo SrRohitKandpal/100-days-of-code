@@ -589,3 +589,13 @@ It's been 22 days I haaven'y updated this log. I was little busy in supplementar
 **Thoughts:** I witnessed that consistency is what a programmer think like a programmer. I will write a story at medium of my 100 Days of code challenge and I promise with new challenge of 100 Days of code I will conquer the Javascript and its major frameworks because that's what I really wanted this year #2017. Came back with new enthusiasm.
  
 **Link to work:** No links to show right now.
+
+
+## Day 94 June 14 2017 - Day 100 June 21 2017   
+
+I have done nothing much in the last 7 days of coding challenge. Overall saying this #100DaysOfChallenge has given me courage and determination that if I code daily just for 1 hour I'll be able to accomplish anything. Well these 100Days has been really very affective, I learn so many new things especially I learn how to beat myself everyday and come out from constraint.
+
+
+I will begin new 100 Days of Challenge from 6th July 2017 and I promise this time I'm gonna digest whole JavaScript, JQuery, ES6, Angular and React.
+
+Thank you very much Kallaway and thanks to everyone who helped in these 100 Days. 
