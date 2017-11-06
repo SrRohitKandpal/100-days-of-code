@@ -1,30 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### I haven't forked this repo on October 11, 2017 but I really wanted to take another challenge as I'm not able to do all the things what I thought or planned. These last two and half a months of this year is really crucial for me. As I'm following freeCodeCamp and so many resources along with it but now I want to track record once again and to be "Front End Developer" at the end of this challenge.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: October 11, 2017 - Day 26: November 6, 2017
+##### (decided to take 100 days of code once again)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: I enrolled myself to edWisor too, it's an online bootcamp but of INDIA only. So I reached to assignment section of Level 2 - Front End Design and Responsive Web Design. Then for the rest of these 25 days I solved two problems of this assignment. First I created all 4 design patterns of Responsive Web Design. Then came the major problem "Responsive Portfolio". I finished both these tasks till 30th October then I made some changes too. And after that I moved to next Level 3 - jQuery. I learned from Video tutorials and also some resources over the internet. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Thoughts:** I really wanted to take the challenge again as I was not able to learn so many things in the first one. I wanted to be a Front End Developer as fast as I can, so as I'm following two major resources right now (freeCodeCamp and edWisor) to be Front End Dev I will track my record here too. I solved both these problems not with much difficulty, I used the same approach as always. Hope to update the log everyday from now and let's see how I will finish the year.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Link to work:** Responsive Design Patterns link https://github.com/SrRohitKandpal/edWisor-Responsive-Design-Patterns-Assignment-Part-One and Responsive Portfolio website is hosted on github pages and the link is https://srrohitkandpal.github.io/edWisor-Responsive-Portfolio-Assignment/
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
